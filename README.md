@@ -2,13 +2,16 @@
 
 I am an aspiring software engineer, currently studying computer science at Rutgers University Camden. I am located in Blackwood NJ
 I specialize in backend developement but have experience in front end and database manegment.
-
-
- I’m currently working on webpage development 
+I’m currently working on webpage development
+ 
  I’m currently learning SQL and Ruby on Rails
  I’m looking to collaborate on open source APIs
-😄 Pronouns: He/Him/His
-📫 How to reach me: sahtsham792@gmail.com
+ 😄 Pronouns: He/Him/His
+ 📫 How to reach me: sahtsham792@gmail.com
+ 
+ languages and tools:
+
+         
 
 
 <!--
