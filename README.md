@@ -1,12 +1,12 @@
-![](https://visitor-badge.glitch.me/badge?page_id=Sham1242.Sham1242)
+
 
 ### Hi there, I'm Ahtsham Sohail 👋
 
-I am an aspiring software engineer, currently studying computer science at Rutgers University Camden. I am located in Blackwood NJ
-I specialize in backend developement but have experience in front end and database manegment.
+I am a software engineer, currently studying computer science at Rutgers University Camden. I am located in Blackwood NJ
+I specialize in backend developement but have experience in front end as well!
 I’m currently working on webpage development for King Crown Gyro Inc.
  
- I’m currently learning SQL and Ruby on Rails
+ I’m currently learning deep learning applications
  I’m looking to collaborate on open source APIs
  😄 Pronouns: He/Him/His
  📫 How to reach me: sahtsham792@gmail.com
