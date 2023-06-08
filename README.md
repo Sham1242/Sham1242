@@ -8,8 +8,8 @@ I’m currently working on webpage development for King Crown Gyro Inc.
  
  I’m currently learning deep learning applications
  I’m looking to collaborate on open source APIs
- 😄 Pronouns: He/Him/His
- 📫 How to reach me: sahtsham792@gmail.com
+😄 Pronouns: He/Him/His
+📫 How to reach me: sahtsham792@gmail.com
  
 **Languages and Tools:**  
 
