@@ -6,10 +6,10 @@ I am a software engineer, currently studying computer science at Rutgers Univers
 I have experience in front-end and back-end development as well!
 I’m currently working on webpage development for King Crown Gyro Inc.
  
- I’m currently learning deep-learning applications.
-  I’m looking to collaborate on open-source APIs.
- 😄 Pronouns: He/Him/His.
- 📫 How to reach me: ahtsham@mnsohail.com
+- I’m currently learning deep-learning applications.
+- I’m looking to collaborate on open-source APIs.
+- 😄 Pronouns: He/Him/His.
+- 📫 How to reach me: ahtsham@mnsohail.com
  
 **Languages and Tools:**  
 
