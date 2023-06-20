@@ -3,12 +3,12 @@
 ### Hi there, I'm Ahtsham Sohail 👋
 
 I am a software engineer, currently studying computer science at Rutgers University Camden. I am located in Blackwood NJ
-I specialize in backend developement but have experience in front end as well!
+I have experience in front-end and back-end development as well!
 I’m currently working on webpage development for King Crown Gyro Inc.
  
- I’m currently learning deep learning applications
- I’m looking to collaborate on open source APIs
-😄 Pronouns: He/Him/His
+ I’m currently learning deep-learning applications.
+ I’m looking to collaborate on open-source APIs.
+😄 Pronouns: He/Him/His.
 📫 How to reach me: ahtsham@mnsohail.com
  
 **Languages and Tools:**  
