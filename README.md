@@ -9,7 +9,7 @@ I’m currently looking for new employment in the NYC area.
 - I’m currently learning deep-learning applications.
 - I’m looking to collaborate on open-source APIs.
 - 😄 Pronouns: He/Him/His.
-- 📫 How to reach me: ahtsham@mnsohail.com
+- 📫 How to reach me: sahtsham792@gmail.com
  
 **Languages and Tools:**  
 
