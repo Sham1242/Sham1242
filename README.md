@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ahtsham Sohail 👋
 
-I am a software engineer, currently studying computer science at Rutgers University Camden. I am located in Blackwood NJ
+Computer science graduate at Rutgers University Camden. I am located in Blackwood NJ
 I have experience in front-end and back-end development as well!
 I’m currently looking for new employment in the NYC area.
  
